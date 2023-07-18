@@ -6,7 +6,7 @@ Zymono is the industry leader in reporting software for video games, social medi
 
 ### Contributing to Zymono
 
-Zymono is a massive collection of code, software and different elements. Some of Zymono is open-source and can be contributed to. Other parts are strictly closed source. Our other projects such as Codemail are fully open-source and contributing is welcomed and encouraged.
+Zymono is a massive collection of code, software and different elements. Some of Zymono is open-source and can be contributed to. Other parts are strictly closed-source. Our other projects such as Codemail are fully open-source and contributing is welcomed and encouraged.
 
 ---
 

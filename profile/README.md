@@ -18,4 +18,4 @@ We fully believe in transparency with our customers so at the moment our mySchoo
 
 You can follow some of these links to learn about Zymono and what we do.
 
-[`Home Page`](https://zymono.com/)  [`Zymono mySchool`](https://zymono.com/myschool/) [`Zymono Enterprise`](https://zymono.com/enterprise/) [`Report A Player`](https://zymono.com/report/) | [`Dashboard`](https://zymono.com/myreports/)
+[`Home Page`](https://zymono.com/)  [`Zymono mySchool`](https://zymono.com/myschool/) [`Zymono Enterprise`](https://zymono.com/enterprise/) [`Report A Player`](https://zymono.com/report/) [`Dashboard`](https://zymono.com/myreports/)

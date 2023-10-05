@@ -2,12 +2,20 @@
 
 ![](https://cdn.cosmixcom.repl.co/zymono/banner.png)
 
-Zymono is the industry leader in reporting software for video games, social media communities, and more.  We make reporting simple for users and platform managers.
+Zymono is the industry leader in reporting software for video games, social media, schools, businesses, and more. 
 
-### Contributing to Zymono
+## Zymono API
 
-Zymono is a massive collection of code, software and different elements. Some of Zymono is open-source and can be contributed to. Other parts are strictly closed-source. Our other projects such as Codemail are fully open-source and contributing is welcomed and encouraged.
+If you're interested in our API you can view the documentation [here](https://docs.zymono.com).
 
----
+Our documentation is fully open source and that can be found at https://github.com/zymono/documentation
 
-[Report A Player](https://zymono.com/report/) | [Dashboard](https://zymono.com/myreports/)
+## Zymono on GitHub
+
+We fully believe in transparency with our customers so at the moment our mySchool program is fully open-source and Zymono Enterprise runs on the same backend. However, our main codebase is closed-source. 
+
+## Don't Know About Zymono?
+
+You can follow some of these links to learn about Zymono and what we do.
+
+<button>123123</button>

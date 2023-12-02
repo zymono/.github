@@ -1,4 +1,4 @@
-## Hey, welcome to Zymono 👋
+# Hey, welcome to Zymono 👋
 
 ![](https://cdn.cosmixcom.repl.co/zymono/banner.png)
 

@@ -28,12 +28,8 @@ The Zymono API provides businesses with a robust and secure way to integrate Zym
 
 Our documentation is fully open source and that can be found at https://github.com/zymono/documentation
 
-## Zymono on GitHub
+# Get Started Today
 
-We fully believe in transparency with our customers so at the moment our mySchool program is fully open-source and Zymono Enterprise runs on the same backend. However, our main codebase is closed-source. 
+Get started with Zymono and help create a better safety culture at your workplace or institution.
 
-## Don't Know About Zymono?
-
-You can follow some of these links to learn about Zymono and what we do.
-
-[`Home Page`](https://zymono.com/)  [`Zymono mySchool`](https://zymono.com/myschool/) [`Zymono Enterprise`](https://zymono.com/enterprise/) [`Report A Player`](https://zymono.com/report/) [`Dashboard`](https://zymono.com/myreports/)
+<a href="https://zymono.com"><button>Get Started</button></a>

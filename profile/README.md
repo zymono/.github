@@ -32,4 +32,4 @@ Our documentation is fully open source and that can be found at https://github.c
 
 Get started with Zymono and help create a better safety culture at your workplace or institution.
 
-<a href="https://zymono.com"><button>Get Started</button></a>
+`<a href="https://zymono.com"><button>Get Started</button></a>`

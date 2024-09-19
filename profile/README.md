@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/zymono/.github/refs/heads/main/images/banner.png" style="border-radius: 50%; border: 2px solid #000;">
+<span style="border-radius: 5px;"><img src="https://raw.githubusercontent.com/zymono/.github/refs/heads/main/images/banner.png" style="border-radius: 5px;"></span>
 
 Zymono is the industry leader in reporting software for video games, social media, schools, businesses, and more. 
 

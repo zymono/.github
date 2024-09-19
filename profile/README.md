@@ -1,6 +1,4 @@
-# Hey, welcome to Zymono 👋
-
-![](https://raw.githubusercontent.com/zymono/.github/refs/heads/main/images/banner.png)
+<img src="https://raw.githubusercontent.com/zymono/.github/refs/heads/main/images/banner.png">
 
 Zymono is the industry leader in reporting software for video games, social media, schools, businesses, and more. 
 

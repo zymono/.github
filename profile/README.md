@@ -1,6 +1,15 @@
 <span style="border-radius: 5px;"><img src="https://raw.githubusercontent.com/zymono/.github/refs/heads/main/images/banner.png" style="border-radius: 5px;"></span>
 
-Zymono is the industry leader in reporting software for video games, social media, schools, businesses, and more. 
+# Welcome to Zymono
+
+Zymono is the industry leader in reporting software for corporations, institutions, and online websites. Zymono streamlines the process between the end user and the company's safety team: no more long emails, and conversations with HR. Just snap a picture and be done with it.
+
+## Key Features
+
+- **Effortless Reporting:** Employees can quickly submit reports related to safety concerns, workplace violations, or unethical behavior, ensuring prompt action is taken.
+- **Centralized Management:** A unified dashboard allows business leaders and HR teams to track, review, and manage incoming reports effectively.
+- **Cross-Industry Applicability:** Ideal for businesses of all sizes across different sectors, ensuring a safe, compliant, and inclusive work environment.
+- **Asynchronous Reporting:** Run a website, video game, social media, or other moderated business? Use asynchronous reporting to allow reports from anyone via a customized page or the API.
 
 ## Zymono API
 

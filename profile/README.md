@@ -11,9 +11,20 @@ Zymono is the industry leader in reporting software for corporations, institutio
 - **Cross-Industry Applicability:** Ideal for businesses of all sizes across different sectors, ensuring a safe, compliant, and inclusive work environment.
 - **Asynchronous Reporting:** Run a website, video game, social media, or other moderated business? Use asynchronous reporting to allow reports from anyone via a customized page or the API.
 
-## Zymono API
+# Zymono API
 
-If you're interested in our API you can view the documentation [here](https://docs.zymono.com).
+The Zymono API provides businesses with a robust and secure way to integrate Zymono’s reporting system directly into their platforms. Whether you’re looking to enhance workplace safety, streamline incident management, or ensure compliance with internal policies, the Zymono API enables quick and efficient integration for customized reporting solutions.
+
+## Key API Features
+
+- **Flexible Integration:** Integrate Zymono's reporting system into your website, app, or business software with ease.
+- **Send and Manage:** You can send reports to the dashboard as well as view reports you have been sent.
+
+## How to Get Started
+
+1. Navigate to the [API Dashboard](https://zymono.com/dashboard/api/). *You must have a Zymono account for this.
+2. Press `Reveal` under the API key card.
+3. You can view the documentation [here](https://docs.zymono.com) for further integration information.
 
 Our documentation is fully open source and that can be found at https://github.com/zymono/documentation
 
